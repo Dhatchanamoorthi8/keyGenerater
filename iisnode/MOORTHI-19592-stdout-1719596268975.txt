@@ -1,0 +1,3 @@
+Generated Activation Key: c4a4932091118329943affeaffb5fbd1.85796a37c0c1a558c3edb824aafc7824.f4cc438d4e3edcd496043b8476b0876d1b6ee793b490e9932de095ea9872a6f3.1ddd13fecd2c79dae44bfe466e9e5dce
+2024-06-07 192.168.136.4
+Server is connected \\.\pipe\e626d1f9-594e-43fe-94e2-407efa22cedb

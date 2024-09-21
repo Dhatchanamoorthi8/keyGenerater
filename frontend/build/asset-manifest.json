@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7a43472.css",
+    "main.js": "/static/js/main.a35d8737.js",
+    "static/media/BungeeSpice-Regular.ttf": "/static/media/BungeeSpice-Regular.ef0981fe1b16b5ec4023.ttf",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d7a43472.css",
+    "static/js/main.a35d8737.js"
+  ]
+}

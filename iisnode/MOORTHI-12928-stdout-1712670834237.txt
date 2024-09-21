@@ -1,0 +1,2 @@
+Server is connected \\.\pipe\e58aafe5-0565-41e3-9af8-68268ee774a3
+Connected to the database
